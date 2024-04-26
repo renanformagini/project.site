@@ -36,11 +36,11 @@ footer{
     text-align: center;
 }
 footer a{
-    margin-top: 20px;
+    margin-top: 50px;
 
 }
 .container{
-    padding: 0px 50px;
+    padding: 0px 30px;
 }
 nav a:hover{
     color: #800080;
@@ -67,6 +67,6 @@ footer a{
     background-color: #5bbe5b;
 }
 .sobre p{
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
